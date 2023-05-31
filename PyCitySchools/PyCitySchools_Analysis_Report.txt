@@ -1,0 +1,31 @@
+PyCitySchools Analysis Report
+
+This report presents a comprehensive analysis of student performance on a district-wide standardized test. Based on the datasets provided, we measured performance using metrics such as average math and reading scores, percentage of students passing these subjects, top and bottom performing schools, and schools' performance based on size, spending, and type. A summary of the analysis' findings is provided in subsequent sections.
+
+Summary of Findings
+
+The analysis reveals key insights about the influence of school types, sizes, and per-student spending on student performance.
+
+1.      School Types
+
+There is a significant difference between charter schools and district schools in terms of performance. The performance rates of students from charter schools in both reading and mathematics were generally higher than those from district schools. It was also evident in the overall passing rate, as charter schools had a higher percentage of students meeting both subject standards.
+
+2.      School Size
+
+Based on the analysis, school size is correlated with student achievement. Schools with a student population less than 2000 (classified as small and medium-sized schools) demonstrated higher average scores in both math and reading. As compared with larger schools (those with more than 2000 students), these schools also had a higher percentage of students passing these subjects.
+
+3.      Per-Student Spending
+
+The findings indicate that schools with a lower per-student budget performed better on the assessment. Schools that spent less than $585 per student had the highest average math and reading scores, and the highest overall passing rate. Students' performance decreased as the spending range increased.
+ 
+Conclusions
+
+The Role of School Type
+
+One significant conclusion from this analysis is the notable impact of school type on student performance. Charter schools consistently performed better than district schools. This could be attributed to various factors inherent in charter schools, such as smaller class sizes, which may improve students' learning due to personalised attention. In any case, further research is needed to identify these contributing factors.
+ 
+Influence of School Size and Budget
+
+The data also highlighted the influence of school size and budget on student outcomes. Smaller schools showed better student performance, suggesting that personalised attention could improve learning outcomes. Moreover, the inverse relationship between per-student spending and student performance challenges the common notion that more funding necessarily leads to better results.
+
+This analysis provides a starting point for a more detailed investigation into student success factors. Further research could delve deeper into the specific characteristics of high-performing schools to understand their best practices and strategies that can be adopted by others.
