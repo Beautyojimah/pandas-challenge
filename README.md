@@ -9,7 +9,7 @@ This repository contains a Python script that analyses the district-wide standar
 
 - The analysis shows the highest-performing Schools by percentage overall passing. 
 
-- It shows th lowest-performing schools by overall passing.
+- It shows the lowest-performing schools by overall passing.
 
 - The analysis categorises the math scores by grade level (9th, 10th, 11th, 12th) at each school. 
 
