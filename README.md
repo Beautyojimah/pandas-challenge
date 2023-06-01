@@ -45,6 +45,9 @@ PyCitySchools_script.ipynb
 The analysis shows that students in a Charter type school significantly outperforms those in District type school, despite District type school having higher school budget. As well, it shows that students with a spending range less than $585 have higher overall performance when compared to students with  spending ranges above $585. Finally, there is an inverse correlation between school size and students' performance, as students in small and medium sized schools (within the range of less than 2000) show better performance than student's in large schools(above 2000). I have attached snapshots to show some of the tables.
 
 <img width="550" alt="image" src="https://github.com/Beautyojimah/pandas-challenge/assets/110996458/25c43262-7db6-4727-a672-f4735228bb18">
+
 <img width="510" alt="image" src="https://github.com/Beautyojimah/pandas-challenge/assets/110996458/fd9e7964-74fb-4b34-a25f-1ac1d5422d5b">
-<img width="484" alt="image" src="https://github.com/Beautyojimah/pandas-challenge/assets/110996458/c4834734-194c-435a-aef1-366c15e4ab0f">
+
+<img width="485" alt="image" src="https://github.com/Beautyojimah/pandas-challenge/assets/110996458/a6ffa0e8-4c5f-43d3-a8f9-dd04aa96c517">
+
 
