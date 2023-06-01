@@ -1,6 +1,6 @@
 # pandas-challenge
 
-This repository contains a Pandas projects for data analysis called PyCitySchools. Within the PyCitySchools folder, there is a pandas script that details the analysis of a city's school district. The csv files (schools_complete and students_complete) used for the analysis are also within the folder.
+This repository contains a Pandas projects for data analysis called PyCitySchools. Within the PyCitySchools folder, there is a pandas script that shows the analysis of a city's schools. A comprehensive report of the analysis and the  csv files (schools_complete and students_complete) used for the analysis are also contained within the folder.
 
 ## Pandas Challenge Description
 
@@ -39,4 +39,9 @@ Run to view script
 ```bash
 PyCitySchools_script.ipynb
 ```
+## Result of Analysis
+
+The analysis shows the following trend 
+
+<img width="550" alt="image" src="https://github.com/Beautyojimah/pandas-challenge/assets/110996458/25c43262-7db6-4727-a672-f4735228bb18">
 
